@@ -6,7 +6,7 @@
     - Study plan: Go, Rust, Ocaml, F#, V
  - Frameworks & Technologies
     - Django, Flask, Ruby on Rails
-    - Study plan: Laravel, React, Vue, NodeJS
+    - Study plan: Laravel, React, Vue, NodeJS, Spring
 
 ### 🏆 Awards
 - 2019, **Digital Forensic Challenge** (3th)
