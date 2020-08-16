@@ -11,7 +11,7 @@
 ### 🏆 Awards
 - 2019, **Digital Forensic Challenge** (3th)
     - Team: Defenit
-- 2017, **Best of the Best 6th** (TOP15)
+- 2017, **KITRI Best of the Best 6th** (TOP15)
 
 <!--
 **hyuunnn/hyuunnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
