@@ -1,8 +1,17 @@
-### Hi there 👋
+<img src="https://github-readme-stats.vercel.app/api?username=hyuunnn&theme=dracula&show_icons=true&count_private=true" />
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=hyuunnn&theme=dracula&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+### 💻 Skills
+ - Languages
+    - Python, Java, C++, C#, JavaScript, PHP, Lua, Ruby
+    - Study plan: Go, Rust, Ocaml, F#, V
+ - Frameworks & Technologies
+    - Django, Flask, Ruby on Rails
+    - Study plan: Laravel, React, Vue, NodeJS
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyuunnn&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### 🏆 Awards
+- 2019, **Digital Forensic Challenge** (3th)
+    - Team: Defenit
+- 2017, **Best of the Best 6th** (TOP15)
 
 <!--
 **hyuunnn/hyuunnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
