@@ -9,9 +9,11 @@
     - Study plan: Laravel, React, Vue, NodeJS, Spring
 
 ### 🏆 Awards
-- 2020, **<a href="https://dfchallenge.org/ranking-2020/">Digital Forensic Challenge</a>** (3th)
+- 2020, **<a href="https://kdfs.jams.or.kr/co/com/EgovMenu.kci?s_url=/po/community/notice/noticeView.kci&s_MenuId=MENU-000000000061000&notiSeq=000000023154">KDFS Digital Forensic Challenge</a>** (2nd)
+    - Team: Enough1day
+- 2020, **<a href="https://dfchallenge.org/ranking-2020/">Digital Forensic Challenge</a>** (3rd)
     - Team: Defenit
-- 2019, **<a href="https://dfchallenge.org/ranking-2019/">Digital Forensic Challenge</a>** (3th)
+- 2019, **<a href="https://dfchallenge.org/ranking-2019/">Digital Forensic Challenge</a>** (3rd)
     - Team: Defenit
 - 2017, **KITRI Best of the Best 6th** (TOP15)
 
