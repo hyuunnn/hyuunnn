@@ -17,6 +17,8 @@
 ### 🏆 Awards
 <details> <summary></summary>
 
+- 2021, **<a href="https://www.cstec.kr/cce2021/index.html">Cyber Conflict Exercise (CCE) Final</a>** (1st - Public Team)
+    - Team: null
 - 2020, **<a href="https://kdfs.jams.or.kr/co/com/EgovMenu.kci?s_url=/po/community/notice/noticeView.kci&s_MenuId=MENU-000000000061000&notiSeq=000000023154">KDFS Digital Forensic Challenge</a>** (2nd)
     - Team: Enough1day
 - 2020, **<a href="https://dfchallenge.org/ranking-2020/">Digital Forensic Challenge</a>** (3rd)
