@@ -1,10 +1,10 @@
 <details> <summary></summary>
 
-<a href="https://www.acmicpc.net/user/hyuunnn"><img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hyuunnn" /></a>
+[![hyuunnn's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hyuunnn)](https://www.acmicpc.net/user/hyuunnn)
 
 </details>
 
-<img src="https://github-readme-stats.vercel.app/api?username=hyuunnn&theme=dracula&show_icons=true&count_private=true" /></a>
+[![hyuunnn's github-readme-stats](https://github-readme-stats.vercel.app/api?username=hyuunnn&theme=dracula&show_icons=true&count_private=true)](https://github.com/hyuunnn)
 
 ### 💻 Skills
  - Languages
