@@ -6,6 +6,10 @@
 
 [![hyuunnn's github-readme-stats](https://github-readme-stats.vercel.app/api?username=hyuunnn&theme=dracula&show_icons=true&count_private=true)](https://github.com/hyuunnn)
 
+### 🏫 Education
+ - 2016.03 ~ 2019.02, Sunrin Internet High School
+ - 2019.03 ~, Pusan National University, Computer Science and Engineering
+
 ### 💻 Skills
  - Languages
     - Python, Java, C++, C#, JavaScript, PHP, Perl, Lua, Ruby
