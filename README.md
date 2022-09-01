@@ -9,6 +9,7 @@
 ### 🏫 Education
  - 2016.03 ~ 2019.02, Sunrin Internet High School
  - 2019.03 ~, Pusan National University, Computer Science and Engineering
+   - 2022.09 ~, Teaching Assistant, Java Programming
 
 ### 💻 Skills
  - Languages
