@@ -17,7 +17,7 @@
     - Python, Java, C++, C#, JavaScript, PHP, Perl, Lua, Ruby
     - Study plan: Go, Rust, Ocaml, F#, V
  - Frameworks & Technologies
-    - Django, Flask, Ruby on Rails
+    - Django, Flask
     - Study plan: Laravel, React, Vue, NodeJS, Spring
 
 ### 🏆 Awards
