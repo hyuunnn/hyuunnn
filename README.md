@@ -10,7 +10,12 @@
  - 2016.03 ~ 2019.02, Sunrin Internet High School
  - 2017.07 ~ 2018.04, KITRI Best of the Best 6th, Digital Forensic (TOP15)
  - 2019.03 ~, Pusan National University, Computer Science and Engineering
-
+ 
+### 🏢 Experience
+ - 2021.02 ~ 2022.07, Republic of Korea Army (ROKA)
+    - I learned Visual Basic For Applications (VBA) language. (<a href="https://github.com/hyuunnn/Hancell_Random-Name-Picker">Random-Name-Picker</a>, <a href="https://github.com/hyuunnn/Hancell_ghost-leg">Ghost Leg</a>)
+    - I developed a tool to automate part of process.
+ 
 ### 💻 Skills
  - Languages
     - Python, Java, C++, C#, JavaScript, PHP, Perl, Lua, Ruby
