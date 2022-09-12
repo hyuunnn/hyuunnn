@@ -10,7 +10,6 @@
  - 2016.03 ~ 2019.02, Sunrin Internet High School
  - 2017.07 ~ 2018.04, KITRI Best of the Best 6th, Digital Forensic (TOP15)
  - 2019.03 ~, Pusan National University, Computer Science and Engineering
-   - 2022.09 ~, Teaching Assistant, Java Programming
 
 ### 💻 Skills
  - Languages
