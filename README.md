@@ -19,10 +19,10 @@
 ### 💻 Skills
  - Languages
     - Python, Java, C++, C#, JavaScript, PHP, Perl, Lua, Ruby
-    - Study plan: Go, Rust, Ocaml, F#, V
+    - Interested in: Go, Rust, Ocaml, F#, V
  - Frameworks & Technologies
     - Django, Flask
-    - Study plan: Laravel, React, Vue, NodeJS, Spring
+    - Interested in: Laravel, React, Vue, NodeJS, Spring
 
 ### 🏆 Awards
 <details> <summary></summary>
