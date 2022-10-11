@@ -4,7 +4,7 @@
 
 </details>
 
-[![hyuunnn's github-readme-stats](https://github-readme-stats.vercel.app/api?username=hyuunnn&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&hide=commits)](https://github.com/hyuunnn)
+[![hyuunnn's github-readme-stats](https://github-readme-stats.vercel.app/api?username=hyuunnn&theme=dracula&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/hyuunnn)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hyuunnn&theme=monokai-metallian)](https://github.com/hyuunnn)
 
