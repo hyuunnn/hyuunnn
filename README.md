@@ -29,6 +29,8 @@
 ### 🏆 Awards
 <details> <summary></summary>
 
+- 2022, **<a href="https://dfchallenge.org/2022-rank/">Digital Forensic Challenge</a>** (1st)
+    - Team: asserTiVe
 - 2021, **<a href="https://dfir.science/2021/11/WIN-100USD-and-PRIZES-Nov-DFIR-Dev.html">November DFIRDev Competition</a>** (<a href="https://dfir.science/2021/12/November-DFIRDev-Winners">2rd</a>)
 - 2021, **<a href="https://www.dailysecu.com/news/articleView.html?idxno=130707">Cyber Conflict Exercise (CCE) Final</a>** (1st - Public Team)
     - Team: null
