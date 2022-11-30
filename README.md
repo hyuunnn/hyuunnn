@@ -23,8 +23,8 @@
     - Python, Java, C++, C#, JavaScript, Perl, Lua, Powershell
     - Interested in: Go, Rust, Ocaml, F#, Vim Script, Emacs Lisp
  - Frameworks & Technologies
-    - Django, Flask
-    - Interested in: Laravel, React, Vue, NodeJS, Spring
+    - Django, Flask, Spring
+    - Interested in: React, Vue, NodeJS, Laravel
 
 ### 🏆 Awards
 <details> <summary></summary>
