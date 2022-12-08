@@ -15,7 +15,7 @@
  
 ### 🏢 Experience
  - 2021.02 ~ 2022.07, Republic of Korea Army (ROKA)
-    - I learned Visual Basic For Applications (VBA) language. (<a href="https://github.com/hyuunnn/Hancell_Random-Name-Picker">Random-Name-Picker</a>, <a href="https://github.com/hyuunnn/Hancell_ghost-leg">Ghost Leg</a>)
+    - I learned Visual Basic For Applications (VBA) language. (<a href="https://github.com/hyuunnn/Hancell_Random-Name-Picker">Random-Name-Picker</a>, <a href="https://github.com/hyuunnn/Hancell_sadari">Sadari</a>)
     - I developed tools to automate parts of process.
  
 ### 💻 Skills
