@@ -29,6 +29,8 @@
 ### 🏆 Awards
 <details> <summary></summary>
 
+- 2023, 제4회 KOSPO 정보보안 경진대회 (장려상)
+    - Team: 친구없어요
 - 2022, **<a href="https://dfchallenge.org/2022-rank/">Digital Forensic Challenge</a>** (1st)
     - Team: asserTiVe
 - 2021, **<a href="https://dfir.science/2021/11/WIN-100USD-and-PRIZES-Nov-DFIR-Dev.html">November DFIRDev Competition</a>** (<a href="https://dfir.science/2021/12/November-DFIRDev-Winners">2nd</a>)
