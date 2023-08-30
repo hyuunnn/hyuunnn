@@ -29,7 +29,7 @@
 ### 🏆 Awards
 <details> <summary></summary>
 
-- 2023, 제4회 KOSPO 정보보안 경진대회 (장려상)
+- 2023, **<a href="http://www.todayenergy.kr/news/articleView.html?idxno=264010">제4회 KOSPO 정보보안 경진대회</a>** (장려상)
     - Team: 친구없어요
 - 2022, **<a href="https://dfchallenge.org/2022-rank/">Digital Forensic Challenge</a>** (1st)
     - Team: asserTiVe
