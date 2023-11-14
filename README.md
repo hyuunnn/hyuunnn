@@ -1,12 +1,14 @@
+[![hyuunnn's github-readme-stats](https://github-readme-stats.vercel.app/api?username=hyuunnn&theme=dracula&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/hyuunnn)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hyuunnn&theme=monokai-metallian)](https://github.com/hyuunnn)
+
 <details> <summary></summary>
+
+[![Star History Chart](https://api.star-history.com/svg?repos=hyuunnn/Hyara&type=Date)](https://star-history.com/#hyuunnn/Hyara&Date)
 
 [![hyuunnn's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hyuunnn)](https://www.acmicpc.net/user/hyuunnn)
 
 </details>
-
-[![hyuunnn's github-readme-stats](https://github-readme-stats.vercel.app/api?username=hyuunnn&theme=dracula&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/hyuunnn)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hyuunnn&theme=monokai-metallian)](https://github.com/hyuunnn)
 
 ### 🏫 Education
  - 2016.03 ~ 2019.02, Sunrin Internet High School
