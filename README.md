@@ -21,11 +21,9 @@
  
 ### 💻 Skills
  - Languages
-    - Python, Java, Kotlin, C++, C#, JavaScript, Lua, Powershell, Go
-    - Interested in: Rust, Scala, Ocaml, F#, Vim Script, Clojure, Haskell
+    - Python, Java, Kotlin, C++, C#, JavaScript, Lua, Powershell
  - Frameworks & Technologies
-    - Django, Flask, Spring, Flutter
-    - Interested in: React, Vue, NodeJS, Laravel
+    - Django, Flask, Spring, Node.js, Flutter
 
 ### 🏆 Awards
 <details> <summary></summary>
