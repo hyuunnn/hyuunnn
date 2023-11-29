@@ -23,7 +23,7 @@
  - Languages
     - Python, Java, Kotlin, C++, C#, JavaScript, Lua, Powershell
  - Frameworks & Technologies
-    - Django, Flask, Spring, Node.js, Flutter
+    - Kubernetes, Django, Flask, Spring, Node.js, Flutter
 
 ### 🏆 Awards
 <details> <summary></summary>
