@@ -28,6 +28,8 @@
 ### 🏆 Awards
 <details> <summary></summary>
 
+- 2023, **<a href="https://kdfs.jams.or.kr/co/com/EgovMenu.kci?s_url=/po/community/notice/noticeView.kci&s_MenuId=MENU-000000000061000&notiSeq=000000038754">KDFS Digital Forensic Challenge</a>** (2nd)
+    - Team: LastDance
 - 2023, **<a href="http://www.todayenergy.kr/news/articleView.html?idxno=264010">제4회 KOSPO 정보보안 경진대회</a>** (장려상)
     - Team: 친구없어요
 - 2022, **<a href="https://dfchallenge.org/2022-rank/">Digital Forensic Challenge</a>** (1st)
