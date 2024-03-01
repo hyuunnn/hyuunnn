@@ -21,7 +21,7 @@
  
 ### 💻 Skills
  - Languages
-    - Python, Java, Kotlin, C++, C#, JavaScript, Lua, Powershell
+    - Python, Java, C++, C#, JavaScript, Kotlin, Lua, Powershell
  - Frameworks & Technologies
     - Kubernetes, Django, Flask, Spring, Node.js, Flutter
 
