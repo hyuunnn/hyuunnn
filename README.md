@@ -1,13 +1,5 @@
 [![gitanimals](https://render.gitanimals.org/farms/hyuunnn)](https://github.com/devxb/gitanimals)
 
-<details> <summary></summary>
-
-[![Star History Chart](https://api.star-history.com/svg?repos=hyuunnn/Hyara&type=Date)](https://star-history.com/#hyuunnn/Hyara&Date)
-
-[![hyuunnn's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hyuunnn)](https://www.acmicpc.net/user/hyuunnn)
-
-</details>
-
 ### 🏫 Education
  - 2016.03 ~ 2019.02, Sunrin Internet High School
  - 2017.07 ~ 2018.04, KITRI Best of the Best 6th, Digital Forensic (TOP15)
