@@ -18,7 +18,7 @@
 ### 🏆 Awards
 <details> <summary></summary>
 
-- 2024, **<a href="https://hacktheon.org/2023/">HackTheon Sejong</a>** (우수상)
+- 2024, **<a href="https://hacktheon.org/2024/">HackTheon Sejong</a>** (우수상)
     - Team: QWER
 - 2023, **<a href="https://kdfs.jams.or.kr/co/com/EgovMenu.kci?s_url=/po/community/notice/noticeView.kci&s_MenuId=MENU-000000000061000&notiSeq=000000038754">KDFS Digital Forensic Challenge</a>** (2nd)
     - Team: LastDance
