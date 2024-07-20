@@ -1,5 +1,7 @@
 [![gitanimals](https://render.gitanimals.org/farms/hyuunnn)](https://github.com/devxb/gitanimals)
 
+<a href="https://github.com/hyuunnn/CV/blob/main/CV.pdf">CV</a>
+
 ### 🏫 Education
  - 2016.03 ~ 2019.02, Sunrin Internet High School
  - 2017.07 ~ 2018.04, KITRI Best of the Best 6th, Digital Forensic (TOP15)
