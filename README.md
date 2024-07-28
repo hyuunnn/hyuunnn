@@ -9,7 +9,6 @@
  
 ### 🏢 Experience
  - 2021.02 ~ 2022.07, Republic of Korea Army (ROKA)
-    - I developed tools to automate parts of the process.
  
 ### 💻 Skills
  - Languages
