@@ -3,8 +3,8 @@
 <a href="https://github.com/hyuunnn/CV/blob/main/CV.pdf">CV</a>
 
 ### 🏫 Education
- - 2024.07 ~, Financial Security Academy 2nd
- - 2019.03 ~, Pusan National University, Computer Science and Engineering
+ - 2024.07 ~ 2024.11, Financial Security Academy 2nd
+ - 2019.03 ~ 2025.02, Pusan National University, Computer Science and Engineering
  - 2017.07 ~ 2018.04, KITRI Best of the Best 6th, Digital Forensic (TOP15)
  - 2016.03 ~ 2019.02, Sunrin Internet High School
  
@@ -28,7 +28,6 @@
     - Team: 친구없어요
 - 2022, **<a href="https://dfchallenge.org/2022-rank/">Digital Forensic Challenge</a>** (1st)
     - Team: asserTiVe
-- 2021, **<a href="https://dfir.science/2021/11/WIN-100USD-and-PRIZES-Nov-DFIR-Dev.html">November DFIRDev Competition</a>** (<a href="https://dfir.science/2021/12/November-DFIRDev-Winners">2nd</a>)
 - 2021, **<a href="https://www.dailysecu.com/news/articleView.html?idxno=130707">Cyber Conflict Exercise (CCE) Final</a>** (1st - Public Division)
     - Team: null
 - 2021, **<a href="https://kookbang.dema.mil.kr/newsWeb/m/20211027/1/BBSMSTR_000000010023/view.do">ROKA Hacking Contest</a>** (3rd)
