@@ -15,11 +15,13 @@
  - Languages
     - Python, Java, C++, C#, JavaScript, Kotlin, Lua, Powershell
  - Frameworks & Technologies
-    - Kubernetes, Django, Flask, Spring, Node.js, Flutter
+    - Kubernetes, Django, Flask, Spring, Node.js
 
 ### 🏆 Awards
 <details> <summary></summary>
 
+- 2024, **<a href="#">제5회 KOSPO 정보보안 경진대회</a>** (장려상)
+    - Team: 팀명정해줘
 - 2024, **<a href="https://www.newspeach.com/news/articleView.html?idxno=3630">HackTheon Sejong</a>** (우수상)
     - Team: QWER
 - 2023, **<a href="https://kdfs.jams.or.kr/co/com/EgovMenu.kci?s_url=/po/community/notice/noticeView.kci&s_MenuId=MENU-000000000061000&notiSeq=000000038754">KDFS Digital Forensic Challenge</a>** (2nd)
