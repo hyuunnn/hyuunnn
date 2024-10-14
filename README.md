@@ -20,7 +20,7 @@
 ### 🏆 Awards
 <details> <summary></summary>
 
-- 2024, **<a href="#">Digital Forensic Challenge</a>** (1st)
+- 2024, **<a href="https://dfchallenge.org/digital-forensics-challenge-2024-ranking/">Digital Forensic Challenge</a>** (1st)
     - Team: LuckyVicky
 - 2024, **<a href="#">제5회 KOSPO 정보보안 경진대회</a>** (장려상)
     - Team: 팀명정해줘
