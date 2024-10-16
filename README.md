@@ -32,6 +32,8 @@
     - Team: 친구없어요
 - 2022, **<a href="https://dfchallenge.org/2022-rank/">Digital Forensic Challenge</a>** (1st)
     - Team: asserTiVe
+- 2022, **<a href="https://www.etnews.com/20221025000122">금융보안 위협분석 대회 (FIESTA)</a>** (장려상)
+    - Team: 민간인(진)
 - 2021, **<a href="https://www.dailysecu.com/news/articleView.html?idxno=130707">Cyber Conflict Exercise (CCE) Final</a>** (1st - Public Division)
     - Team: null
 - 2021, **<a href="https://kookbang.dema.mil.kr/newsWeb/m/20211027/1/BBSMSTR_000000010023/view.do">ROKA Hacking Contest</a>** (장려상)
