@@ -42,6 +42,8 @@
     - Team: Enough1day
 - 2020, **<a href="https://dfchallenge.org/ranking-2020/">Digital Forensic Challenge</a>** (3rd)
     - Team: Defenit
+- 2019, **<a href="https://dfchallenge.org/ranking-2019/">Digital Forensic Challenge</a>** (3rd)
+    - Team: Defenit
 - 2018, **<a href="https://www.boannews.com/media/view.asp?idx=73163">청소년 정보보호 페스티벌 (YISF)</a>** (장려상)
 - 2017, **<a href="https://www.boannews.com/media/view.asp?idx=57881">중고생 정보보호올림피아드</a>** (금상)
 
