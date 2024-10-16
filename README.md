@@ -26,7 +26,7 @@
     - Team: 팀명정해줘
 - 2024, **<a href="https://www.newspeach.com/news/articleView.html?idxno=3630">HackTheon Sejong</a>** (우수상)
     - Team: QWER
-- 2023, **<a href="https://kdfs.jams.or.kr/co/com/EgovMenu.kci?s_url=/po/community/notice/noticeView.kci&s_MenuId=MENU-000000000061000&notiSeq=000000038754">KDFS Digital Forensic Challenge</a>** (2nd)
+- 2023, **<a href="https://kdfs.jams.or.kr/co/com/EgovMenu.kci?s_url=/po/community/notice/noticeView.kci&s_MenuId=MENU-000000000061000&notiSeq=000000038754">KDFS Digital Forensic Challenge</a>** (최우수상)
     - Team: LastDance
 - 2023, **<a href="http://www.todayenergy.kr/news/articleView.html?idxno=264010">제4회 KOSPO 정보보안 경진대회</a>** (장려상)
     - Team: 친구없어요
@@ -34,9 +34,9 @@
     - Team: asserTiVe
 - 2021, **<a href="https://www.dailysecu.com/news/articleView.html?idxno=130707">Cyber Conflict Exercise (CCE) Final</a>** (1st - Public Division)
     - Team: null
-- 2021, **<a href="https://kookbang.dema.mil.kr/newsWeb/m/20211027/1/BBSMSTR_000000010023/view.do">ROKA Hacking Contest</a>** (3rd)
+- 2021, **<a href="https://kookbang.dema.mil.kr/newsWeb/m/20211027/1/BBSMSTR_000000010023/view.do">ROKA Hacking Contest</a>** (장려상)
     - Team: 전투휴무
-- 2020, **<a href="https://kdfs.jams.or.kr/co/com/EgovMenu.kci?s_url=/po/community/notice/noticeView.kci&s_MenuId=MENU-000000000061000&notiSeq=000000023154">KDFS Digital Forensic Challenge</a>** (2nd)
+- 2020, **<a href="https://kdfs.jams.or.kr/co/com/EgovMenu.kci?s_url=/po/community/notice/noticeView.kci&s_MenuId=MENU-000000000061000&notiSeq=000000023154">KDFS Digital Forensic Challenge</a>** (우수상)
     - Team: Enough1day
 - 2020, **<a href="https://dfchallenge.org/ranking-2020/">Digital Forensic Challenge</a>** (3rd)
     - Team: Defenit
