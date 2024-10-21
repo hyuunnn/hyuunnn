@@ -1,6 +1,8 @@
 [![gitanimals](https://render.gitanimals.org/farms/hyuunnn)](https://github.com/devxb/gitanimals)
 
-<a href="https://github.com/hyuunnn/CV/blob/main/CV.pdf">CV</a>
+* <a href="https://dreamhack.io/users/67/">Dreamhack</a>
+* <a href="https://cyberdefenders.org/p/hyuunnn">CyberDefenders</a>
+* <a href="https://solved.ac/profile/hyuunnn">solved.ac</a>
 
 ### 🏫 Education
  - 2024.07 ~ 2024.11, Financial Security Academy 2nd
