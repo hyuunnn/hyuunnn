@@ -40,7 +40,7 @@
     - Team: null
 - 2021, **<a href="https://kookbang.dema.mil.kr/newsWeb/m/20211027/1/BBSMSTR_000000010023/view.do">ROKA Cyber Security Challenge</a>** (Encouragement Prize, 정보화기획참모부장상)
     - Team: 전투휴무
-- 2020, **<a href="https://kdfs.jams.or.kr/co/com/EgovMenu.kci?s_url=/po/community/notice/noticeView.kci&s_MenuId=MENU-000000000061000&notiSeq=000000023154">KDFS Digital Forensic Challenge</a>** (Encouragement Prize, 경찰청장상)
+- 2020, **<a href="https://kdfs.jams.or.kr/co/com/EgovMenu.kci?s_url=/po/community/notice/noticeView.kci&s_MenuId=MENU-000000000061000&notiSeq=000000023154">KDFS Digital Forensic Challenge</a>** (Excellence Prize, 경찰청장상)
     - Team: Enough1day
 - 2020, **<a href="https://dfchallenge.org/ranking-2020/">Digital Forensic Challenge</a>** (3rd)
     - Team: Defenit
