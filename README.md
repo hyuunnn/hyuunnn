@@ -22,32 +22,32 @@
 ### 🏆 Awards
 <details> <summary></summary>
 
-- 2024, **<a href="https://dfchallenge.org/digital-forensics-challenge-2024-ranking/">Digital Forensic Challenge</a>** (1st, Winner)
+- 2024, **<a href="https://dfchallenge.org/digital-forensics-challenge-2024-ranking/">Digital Forensic Challenge</a>** (Winner, 국가정보원장상)
     - Team: LuckyVicky
-- 2024, **<a href="https://www.mk.co.kr/news/business/11134890">KOSPO Information Security Competition 5th</a>** (장려상, Encouragement Prize)
+- 2024, **<a href="https://www.mk.co.kr/news/business/11134890">KOSPO Information Security Competition 5th</a>** (Encouragement Prize, 한국남부발전주식회사장상)
     - Team: 팀명정해줘
-- 2024, **<a href="https://www.newspeach.com/news/articleView.html?idxno=3630">HackTheon Sejong</a>** (우수상, Excellence Prize)
+- 2024, **<a href="https://www.newspeach.com/news/articleView.html?idxno=3630">HackTheon Sejong</a>** (Excellence Prize, 국가보안기술연구소장상)
     - Team: QWER
-- 2023, **<a href="https://kdfs.jams.or.kr/co/com/EgovMenu.kci?s_url=/po/community/notice/noticeView.kci&s_MenuId=MENU-000000000061000&notiSeq=000000038754">KDFS Digital Forensic Challenge</a>** (최우수상, Top Prize)
+- 2023, **<a href="https://kdfs.jams.or.kr/co/com/EgovMenu.kci?s_url=/po/community/notice/noticeView.kci&s_MenuId=MENU-000000000061000&notiSeq=000000038754">KDFS Digital Forensic Challenge</a>** (Top Prize, 경찰청장상)
     - Team: LastDance
-- 2023, **<a href="https://www.mk.co.kr/news/business/10817246">KOSPO Information Security Competition 4th</a>** (장려상, Encouragement Prize)
+- 2023, **<a href="https://www.mk.co.kr/news/business/10817246">KOSPO Information Security Competition 4th</a>** (Encouragement Prize, 한국남부발전주식회사장상)
     - Team: 친구없어요
-- 2022, **<a href="https://dfchallenge.org/2022-rank/">Digital Forensic Challenge</a>** (1st, Winner)
+- 2022, **<a href="https://dfchallenge.org/2022-rank/">Digital Forensic Challenge</a>** (Winner, 국가정보원장상)
     - Team: asserTiVe
-- 2022, **<a href="https://www.etnews.com/20221025000122">Financial Institutes' Event on Security Threat Analysis (FIESTA)</a>** (장려상, Encouragement Prize)
+- 2022, **<a href="https://www.etnews.com/20221025000122">Financial Institutes' Event on Security Threat Analysis (FIESTA)</a>** (Encouragement Prize, 금융보안원장상)
     - Team: 민간인(진)
-- 2021, **<a href="https://www.dailysecu.com/news/articleView.html?idxno=130707">Cyber Conflict Exercise (CCE) Final</a>** (1st - Public Division)
+- 2021, **<a href="https://www.dailysecu.com/news/articleView.html?idxno=130707">Cyber Conflict Exercise (CCE) Final</a>** (1st - Public Division, 국가정보원장상)
     - Team: null
-- 2021, **<a href="https://kookbang.dema.mil.kr/newsWeb/m/20211027/1/BBSMSTR_000000010023/view.do">ROKA Cyber Security Challenge</a>** (장려상, Encouragement Prize)
+- 2021, **<a href="https://kookbang.dema.mil.kr/newsWeb/m/20211027/1/BBSMSTR_000000010023/view.do">ROKA Cyber Security Challenge</a>** (Encouragement Prize, 정보화기획참모부장상)
     - Team: 전투휴무
-- 2020, **<a href="https://kdfs.jams.or.kr/co/com/EgovMenu.kci?s_url=/po/community/notice/noticeView.kci&s_MenuId=MENU-000000000061000&notiSeq=000000023154">KDFS Digital Forensic Challenge</a>** (우수상, Encouragement Prize)
+- 2020, **<a href="https://kdfs.jams.or.kr/co/com/EgovMenu.kci?s_url=/po/community/notice/noticeView.kci&s_MenuId=MENU-000000000061000&notiSeq=000000023154">KDFS Digital Forensic Challenge</a>** (Encouragement Prize, 경찰청장상)
     - Team: Enough1day
 - 2020, **<a href="https://dfchallenge.org/ranking-2020/">Digital Forensic Challenge</a>** (3rd)
     - Team: Defenit
 - 2019, **<a href="https://dfchallenge.org/ranking-2019/">Digital Forensic Challenge</a>** (3rd)
     - Team: Defenit
-- 2018, **<a href="https://www.boannews.com/media/view.asp?idx=73163">Youth Information Security Festival (YISF)</a>** (장려상, Encouragement Prize)
-- 2017, **<a href="https://www.boannews.com/media/view.asp?idx=57881">Youth Information Security Olympiad</a>** (금상, Gold Prize)
+- 2018, **<a href="https://www.boannews.com/media/view.asp?idx=73163">Youth Information Security Festival (YISF)</a>** (Encouragement Prize, 하우리 대표상)
+- 2017, **<a href="https://www.boannews.com/media/view.asp?idx=57881">Youth Information Security Olympiad</a>** (Gold Prize)
 
 </details>
 
