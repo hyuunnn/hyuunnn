@@ -24,7 +24,7 @@
 
 - 2024, **<a href="https://dfchallenge.org/digital-forensics-challenge-2024-ranking/">Digital Forensic Challenge</a>** (Winner, 국가정보원장상)
     - Team: <a href="https://github.com/DFC-2024-LuckyVicky">LuckyVicky</a>
-- 2024, **<a href="https://www.mk.co.kr/news/business/11134890">KOSPO Information Security Competition 5th</a>** (Encouragement Prize, 한국남부발전주식회사장상)
+- 2024, **<a href="https://www.electimes.com/news/articleView.html?idxno=345696">KOSPO Information Security Competition 5th</a>** (Encouragement Prize, 한국남부발전주식회사장상)
     - Team: 팀명정해줘
 - 2024, **<a href="https://www.newspeach.com/news/articleView.html?idxno=3630">HackTheon Sejong</a>** (Excellence Prize, 국가보안기술연구소장상)
     - Team: QWER
