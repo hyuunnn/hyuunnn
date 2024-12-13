@@ -6,7 +6,7 @@
 
 ### 🏫 Education
  - 2024.07 ~ 2024.11, Financial Security Academy 2nd
- - 2019.03 ~ 2025.02, Pusan National University, Computer Science and Engineering
+ - 2019.03 ~, Pusan National University, Computer Science and Engineering
  - 2017.07 ~ 2018.04, KITRI Best of the Best 6th, Digital Forensic (TOP15)
  - 2016.03 ~ 2019.02, Sunrin Internet High School
  
