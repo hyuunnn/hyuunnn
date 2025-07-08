@@ -4,21 +4,6 @@
 * <a href="https://cyberdefenders.org/p/hyuunnn">CyberDefenders</a>
 * <a href="https://solved.ac/profile/hyuunnn">solved.ac</a>
 
-### 🏫 Education
- - 2024.07 ~ 2024.11, Financial Security Academy 2nd
- - 2019.03 ~, Pusan National University, Computer Science and Engineering
- - 2017.07 ~ 2018.04, KITRI Best of the Best 6th, Digital Forensic (TOP15)
- - 2016.03 ~ 2019.02, Sunrin Internet High School
- 
-### 🏢 Experience
- - 2021.02 ~ 2022.07, Republic of Korea Army (ROKA)
- 
-### 💻 Skills
- - Languages
-    - Python, Java, C++, C#, JavaScript, Kotlin, Lua, Powershell
- - Frameworks & Technologies
-    - Kubernetes, Django, Flask, Spring, Node.js
-
 ### 🏆 Awards
 <details> <summary></summary>
 
