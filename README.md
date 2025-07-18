@@ -7,6 +7,8 @@
 ### 🏆 Awards
 <details> <summary></summary>
 
+- 2025, **<a href="https://www.gukjenews.com/news/articleView.html?idxno=3328496">HACKSIUM BUSAN 2025</a>** (Excellence Prize, 한국인터넷진흥원장상)
+    - Team: 핵쉬움
 - 2024, **<a href="https://dfchallenge.org/digital-forensics-challenge-2024-ranking/">Digital Forensic Challenge</a>** (Winner, 국가정보원장상)
     - Team: <a href="https://github.com/DFC-2024-LuckyVicky">LuckyVicky</a>
 - 2024, **<a href="https://www.electimes.com/news/articleView.html?idxno=345696">KOSPO Information Security Competition 5th</a>** (Encouragement Prize, 한국남부발전주식회사장상)
