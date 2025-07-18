@@ -9,7 +9,7 @@
 
 - 2025, **<a href="https://www.gukjenews.com/news/articleView.html?idxno=3328496">HACKSIUM BUSAN 2025</a>** (Excellence Prize, 한국인터넷진흥원장상)
     - Team: 핵쉬움
-- 2024, **<a href="https://dfchallenge.org/digital-forensics-challenge-2024-ranking/">Digital Forensic Challenge</a>** (Winner, 국가정보원장상)
+- 2024, **<a href="https://www.dfchallenge.org/techwinners/2024">Digital Forensic Challenge</a>** (Winner, 국가정보원장상)
     - Team: <a href="https://github.com/DFC-2024-LuckyVicky">LuckyVicky</a>
 - 2024, **<a href="https://www.electimes.com/news/articleView.html?idxno=345696">KOSPO Information Security Competition 5th</a>** (Encouragement Prize, 한국남부발전주식회사장상)
     - Team: 팀명정해줘
@@ -19,7 +19,7 @@
     - Team: LastDance
 - 2023, **<a href="https://www.mk.co.kr/news/business/10817246">KOSPO Information Security Competition 4th</a>** (Encouragement Prize, 한국남부발전주식회사장상)
     - Team: 친구없어요
-- 2022, **<a href="https://dfchallenge.org/2022-rank/">Digital Forensic Challenge</a>** (Winner, 국가정보원장상)
+- 2022, **<a href="https://www.dfchallenge.org/techwinners/2022">Digital Forensic Challenge</a>** (Winner, 국가정보원장상)
     - Team: asserTiVe
 - 2022, **<a href="https://www.etnews.com/20221025000122">Financial Institutes' Event on Security Threat Analysis (FIESTA)</a>** (Encouragement Prize, 금융보안원장상)
     - Team: 민간인(진)
@@ -29,9 +29,9 @@
     - Team: 전투휴무
 - 2020, **<a href="https://kdfs.jams.or.kr/co/com/EgovMenu.kci?s_url=/po/community/notice/noticeView.kci&s_MenuId=MENU-000000000061000&notiSeq=000000023154">KDFS Digital Forensic Challenge</a>** (Excellence Prize, 경찰청장상)
     - Team: Enough1day
-- 2020, **<a href="https://dfchallenge.org/ranking-2020/">Digital Forensic Challenge</a>** (3rd)
+- 2020, **<a href="https://www.dfchallenge.org/techwinners/2020">Digital Forensic Challenge</a>** (3rd)
     - Team: Defenit
-- 2019, **<a href="https://dfchallenge.org/ranking-2019/">Digital Forensic Challenge</a>** (3rd)
+- 2019, **<a href="https://www.dfchallenge.org/techwinners/2019">Digital Forensic Challenge</a>** (3rd)
     - Team: Defenit
 - 2018, **<a href="https://www.boannews.com/media/view.asp?idx=73163">Youth Information Security Festival (YISF)</a>** (Encouragement Prize, 하우리 대표상)
 - 2017, **<a href="https://www.boannews.com/media/view.asp?idx=57881">Youth Information Security Olympiad</a>** (Gold Prize)
