@@ -36,6 +36,14 @@
 
 </details>
 
+### 🛡️ CVEs
+<details> <summary></summary>
+
+- <a href="https://github.com/kovidgoyal/kitty/security/advisories/GHSA-5gmr-9gwg-hhq6">CVE-2026-54057</a>: Command injection via unsanitized OSC 21 query reply
+- <a href="https://github.com/kovidgoyal/calibre/security/advisories/GHSA-2j4m-2q7x-2c47">CVE-2026-53511</a>: Arbitrary Code Execution in Template Formatter via Book Metadata
+
+</details>
+
 <!--
 **hyuunnn/hyuunnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
