@@ -42,6 +42,7 @@
 - <a href="https://github.com/kovidgoyal/kitty/security/advisories/GHSA-5gmr-9gwg-hhq6">CVE-2026-54057</a>: Command injection via unsanitized OSC 21 query reply
 - <a href="https://github.com/kovidgoyal/calibre/security/advisories/GHSA-2j4m-2q7x-2c47">CVE-2026-53511</a>: Arbitrary Code Execution in Template Formatter via Book Metadata
 - <a href="https://github.com/helge17/tuxguitar/security/advisories/GHSA-v66p-c82h-w3cq">CVE-2026-55543</a>: Arbitrary Code Execution via maliciously crafted `.tg` file
+- <a href="https://github.com/gchq/CyberChef/issues/2568">Prototype pollution security vulnerability#2568</a>
 
 </details>
 
