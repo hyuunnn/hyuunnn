@@ -43,6 +43,7 @@
 - <a href="https://github.com/kovidgoyal/calibre/security/advisories/GHSA-2j4m-2q7x-2c47">CVE-2026-53511</a>: Arbitrary Code Execution in Template Formatter via Book Metadata
 - <a href="https://github.com/helge17/tuxguitar/security/advisories/GHSA-v66p-c82h-w3cq">CVE-2026-55543</a>: Arbitrary Code Execution via maliciously crafted `.tg` file
 - <a href="https://github.com/gchq/CyberChef/issues/2568">Prototype pollution security vulnerability#2568</a>
+- <a href="">GHSA-2872-rg44-j9gx</a>: EJS template verifier bypass in safeEjs leads to authenticated RCE
 
 </details>
 
