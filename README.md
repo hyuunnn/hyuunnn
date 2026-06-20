@@ -44,6 +44,7 @@
 - <a href="https://github.com/helge17/tuxguitar/security/advisories/GHSA-v66p-c82h-w3cq">CVE-2026-55543</a>: Arbitrary Code Execution via maliciously crafted `.tg` file
 - <a href="https://github.com/gchq/CyberChef/issues/2568">Prototype pollution security vulnerability#2568</a>
 - <a href="">GHSA-2872-rg44-j9gx</a>: EJS template verifier bypass in safeEjs leads to authenticated RCE
+- <a href="">GHSA-c8ff-c6hm-82pg</a>: Persistent DOM-based XSS via unsanitized GoldenLayout labels
 
 </details>
 
