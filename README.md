@@ -45,6 +45,8 @@
 - <a href="https://github.com/gchq/CyberChef/security/advisories/GHSA-fx6f-382r-j72c">CVE-2026-57439</a>: Prototype pollution in Series Chart operation
 - <a href="">GHSA-2872-rg44-j9gx</a>: EJS template verifier bypass in safeEjs leads to authenticated RCE
 - <a href="">GHSA-c8ff-c6hm-82pg</a>: Persistent DOM-based XSS via unsanitized GoldenLayout labels
+- <a href="https://github.com/siyuan-note/siyuan/security/advisories/GHSA-wp64-x7qh-h728">GHSA-wp64-x7qh-h728</a>: `siyuan://` tab icon XSS to RCE
+- <a href="https://github.com/siyuan-note/siyuan/security/advisories/GHSA-pw5c-qhf3-jhwh">GHSA-pw5c-qhf3-jhwh</a>: Attribute View cell values: stored XSS to RCE (incomplete HTML escaping in renderCell)
 
 </details>
 
