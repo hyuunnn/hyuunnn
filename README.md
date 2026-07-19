@@ -47,6 +47,8 @@
 - <a href="">GHSA-c8ff-c6hm-82pg</a>: Persistent DOM-based XSS via unsanitized GoldenLayout labels
 - <a href="https://github.com/siyuan-note/siyuan/security/advisories/GHSA-wp64-x7qh-h728">GHSA-wp64-x7qh-h728</a>: `siyuan://` tab icon XSS to RCE
 - <a href="https://github.com/siyuan-note/siyuan/security/advisories/GHSA-pw5c-qhf3-jhwh">GHSA-pw5c-qhf3-jhwh</a>: Attribute View cell values: stored XSS to RCE (incomplete HTML escaping in renderCell)
+- <a href="https://github.com/agentfront/enclave/security/advisories/GHSA-grmc-r8vw-226r">GHSA-grmc-r8vw-226r</a>: Sandbox Escape: callTool().then() leaks unwrapped host Promise
+- <a href="https://github.com/agentfront/enclave/security/advisories/GHSA-6mpw-63xj-mghh">GHSA-6mpw-63xj-mghh</a>: Sandbox Escape: return-value sanitizer leaks host callback via Proxy .map()
 
 </details>
 
